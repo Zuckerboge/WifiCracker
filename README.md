@@ -1,2 +1,3 @@
 # WifiCracker
-Crack the wifi by the codebook local
+破解身边信号比较好的wifi
+主要思路是通过密码本里的弱密码，逐个尝试，暴力破解
